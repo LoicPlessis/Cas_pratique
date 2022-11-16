@@ -1,0 +1,12 @@
+torch
+torchvision 
+torchaudio
+opencv-python
+streamlit
+streamlit-webrtc
+av
+PyYAML
+tqdm
+matplotlib
+seaborn
+scipy
