@@ -1,8 +1,0 @@
-train: ../drive/MyDrive/Simplon/Colab_Notebooks/verificateur_uniforme/train_data/images/train
-val: ../drive/MyDrive/Simplon/Colab_Notebooks/verificateur_uniforme/train_data/images/val
-
-# number of classes
-nc : 4
-
-# Classes names:
-names: ['casque', 'gilet', 'no_casque', 'no_gilet']
