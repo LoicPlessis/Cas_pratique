@@ -1,0 +1,7 @@
+train: ../drive/MyDrive/Simplon/Colab_Notebooks/verificateur_epi/images/train
+val: ../drive/MyDrive/Simplon/Colab_Notebooks/verificateur_epi/images/val
+
+nc : 4
+
+
+names: ['Casque_OK', 'Gilet_OK', 'Casque_NO', 'Gilet_NO']
